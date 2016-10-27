@@ -1,5 +1,5 @@
 /**
- * Este programa felicita a mamá
+ * Este programa felicita a mamá.
  * 
  * Octubre 2016
  */
